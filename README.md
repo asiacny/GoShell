@@ -33,7 +33,7 @@
 
 ## 安装软件
 
-下载 GoShell
+下载 https://github.com/lauixData/GoShell/releases/tag/0.1 
 
 复制 gs 到 /usr/local/bin or ln -s 设置软链接
 

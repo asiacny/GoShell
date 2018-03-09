@@ -11,7 +11,7 @@
 
 - Mac (darwin)
 - Linux
-- Windows
+- Windows (有BUG)
 
 ## 使用场景
 
@@ -30,6 +30,26 @@
 身为懒人感觉好麻烦。
 
 使用 GoShell  **`gs kall python`** 即可，省了打很多命令
+
+## 安装软件
+
+下载 GoShell
+
+复制 gs 到 /usr/local/bin or ln -s 设置软链接
+
+(别忘记给权限)
+
+**初始化**
+
+**`gs init`**
+
+**帮助**
+
+**`gs help`**
+
+**命令帮助**
+
+**`gs kall --help`**
 
 ## 编辑命令
 
